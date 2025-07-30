@@ -18,7 +18,7 @@
   ],
   "require": {
     "yiisoft/yii2": "~2.0.0",
-    "npm-asset/fullcalendar": "^5.5"
+    "npm-asset/fullcalendar": "^6.1"
   },
   "require-dev": {
     "kriss/foxy-yii2-convert": "v1.4"
